@@ -297,7 +297,7 @@ thelook-hoodies-audit/
 ---
 ## 📊 Dashboard Interactif
 
-> 🔗 **[Voir le Dashboard Live sur Looker Studio →](COLLE_TON_LIEN_ICI)**
+> 🔗 **[Voir le Dashboard Live sur Looker Studio →](https://lookerstudio.google.com/s/ofoGCVg3VBU)**
 
 ---
 
