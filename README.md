@@ -323,7 +323,8 @@ thelook-hoodies-audit/
 ![Stocks et Logistique](dashboard/image-3.png)
 > ⚠️ Stock critique : 571k€ immobilisés | Rotation 0.40
 
-
+------
+Présentation : (https://app.dust.tt/share/frame/46c9534a-fe4a-43cc-8a05-01d9c2604057) 
 
 ## Auteurs
 
