@@ -295,6 +295,35 @@ thelook-hoodies-audit/
 ```
 
 ---
+## 📊 Dashboard Interactif
+
+> 🔗 **[Voir le Dashboard Live sur Looker Studio →](COLLE_TON_LIEN_ICI)**
+
+---
+
+### Page 1 — Tendance Mensuelle
+![Tendance Mensuelle](dashboard/page1_tendance.png)
+> 📈 Croissance de +67% du volume entre Jan et Oct 2025
+
+---
+
+### Page 2 — KPIs Globaux
+![KPIs Globaux](dashboard/page2_kpis_globaux.png)
+> 💰 CA : 258k€ | Marge : 48% | Panier moyen : 55.49€
+
+---
+
+### Page 3 — Canaux & Géographie
+![Canaux et Géographie](dashboard/page3_canaux_geo.png)
+> 🌍 Chine #1 (33%) | Search domine à 69% du CA
+
+---
+
+### Page 4 — Stocks & Logistique
+![Stocks et Logistique](dashboard/page4_stocks_logistique.png)
+> ⚠️ Stock critique : 571k€ immobilisés | Rotation 0.40
+
+
 
 ## Auteurs
 
