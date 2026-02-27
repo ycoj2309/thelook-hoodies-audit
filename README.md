@@ -6,6 +6,7 @@ Atelier : Audit performance Fashion Hoodies - BigQuery SQL
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![School](https://img.shields.io/badge/Eugenia_School-2026-purple?style=for-the-badge)
 
 ---
 
